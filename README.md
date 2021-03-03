@@ -1,5 +1,5 @@
-# VGG16-based-Sound-Classification
-VGG-16 based sound Classification
+# VGG16-based-Gesture-Classification
+VGG-16 based gesture classification
 
 Abstract
 
